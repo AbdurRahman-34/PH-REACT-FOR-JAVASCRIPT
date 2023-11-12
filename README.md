@@ -1,2 +1,14 @@
 # 💠 React for Javascript Es6 Important Topics :::
 - [x] Template String
+- [x] Spread Operator
+- [x] Array & Object destructuring with condition || or
+- [x] Nested Operator
+- [x] For loop
+- [x] For of
+- [x] For in
+- [x] map
+- [x] filter
+- [x] Api - fakestoreapi use
+- [x] Optional chaining
+- [x] Ternary Operator
+- [x] indexOf
